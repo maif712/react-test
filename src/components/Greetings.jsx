@@ -9,6 +9,7 @@ const Greetings = () => {
                 <p className="subtitle">✨ animated border • poppins font</p>
                 <p className='subtitle'>This is a another commit test</p>
                 <button>This for new branch</button>
+                <input type="text" placeholder='Username...' />
             </div>
         </div>
     );
